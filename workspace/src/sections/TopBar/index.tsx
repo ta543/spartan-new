@@ -86,6 +86,8 @@ type AdvertorialData = {
   media: AdvertorialMedia;
 };
 
+const ADV_CTA_URL = "https://loraritual.com/products/nrx";
+
 const AdvertorialContext = createContext<AdvertorialData | null>(null);
 
 function useAdvertorialData() {
@@ -168,10 +170,9 @@ const VideoBlock = ({ src }: { src: string }) => (
 
 const CtaBtn = ({ text, id, className }: { text: string; id?: string; className?: string }) => (
   <a
-    href="#"
+    href={ADV_CTA_URL}
     id={id}
     className={className ?? "text-slate-50 text-xl font-bold bg-[#149313] shadow-[rgba(0,0,0,0.19)_0px_4px_7px_1px] inline-block tracking-[0.02px] leading-6 max-w-full text-center w-full px-2.5 py-6 rounded font-montserrat md:text-[30px] md:leading-[36px] md:px-6 md:py-8 transition-all duration-200 hover:bg-[#149313] active:scale-[0.98]"}
-    onClick={(e) => e.preventDefault()}
   >
     <span>{text}</span>
   </a>
@@ -293,8 +294,7 @@ const Sidebar = () => {
             className="hidden basis-[0%] shrink-0 max-w-full w-[90%] mt-2.5 mb-[15px] mx-auto rounded-[1px] md:block md:w-[200px] transition-transform duration-300 hover:scale-[1.02]"
           />
           <a
-            href="#"
-            onClick={(e) => e.preventDefault()}
+            href={ADV_CTA_URL}
             className="group text-blue-700 items-center self-center bg-yellow-400 hidden justify-center max-w-full text-center w-[95%] mx-auto border-amber-600 pl-5 pr-2.5 py-2.5 rounded-[5px] border-b-4 border-solid font-helvetica md:block transition-all duration-200 hover:bg-yellow-300 active:scale-[0.98]"
           >
             <h1 className="text-zinc-800 text-[19px] font-bold items-center self-center bg-no-repeat bg-contain flex justify-center leading-[28.5px] mb-px pl-2.5 font-montserrat md:self-auto whitespace-pre-line" style={{ backgroundImage: `url('${media.sidebar.ctaBackgroundSrc}')` }}>
@@ -478,8 +478,7 @@ export const TopBar = ({ content, media }: AdvertorialData) => {
         <div className="sticky items-stretch bg-[#B6B5B5] flex flex-wrap justify-center max-w-full z-50 px-2.5 py-[15px] bottom-0 md:flex-nowrap shadow-[0_-4px_16px_rgba(0,0,0,0.15)]">
           <div className="relative items-center flex basis-full flex-row-reverse grow justify-center max-w-[1200px] min-h-[25px] w-min md:basis-0">
             <a
-              href="#"
-              onClick={(e) => e.preventDefault()}
+              href={ADV_CTA_URL}
               className="text-slate-50 text-[20px] font-bold bg-[#149313] block tracking-[0.02px] leading-[28px] max-w-full text-center px-4 py-2.5 rounded font-montserrat md:text-2xl md:leading-10 md:px-10 md:py-[22px] transition-all duration-200 hover:bg-[#149313] active:scale-[0.98]"
             >
               <span>{content.stickyCta}</span>
