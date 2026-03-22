@@ -1,3 +1,4 @@
+import { commentLikeIconSrc } from "@/sections/CommentsSection/components/commentAssets";
 export type ReplyItem = {
   avatarSrc: string;
   name: string;
@@ -59,7 +60,7 @@ export const CommentItem = (props: CommentItemProps) => {
             {" · "}
             {parseInt(props.likeCount, 10) > 0 && (
               <img
-                src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750416781287_download_3_.png"
+                src={commentLikeIconSrc}
                 title=""
                 href=""
                 alt=""
@@ -111,7 +112,7 @@ export const CommentItem = (props: CommentItemProps) => {
                       {" · "}
                       {parseInt(reply.likeCount, 10) > 0 && (
                         <img
-                          src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750416781287_download_3_.png"
+                          src={commentLikeIconSrc}
                           title=""
                           href=""
                           alt=""
