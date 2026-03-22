@@ -9,17 +9,47 @@
   "article": {
     "heroVideoSrc": "https://cdn.shopify.com/videos/c/o/v/c216b52cb0674c058cb03916ccfdcfcf.mp4",
     "sections": {
-      "hair-loss-crisis": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp", "imageAlt": "Hair loss confidence illustration" },
-      "hair-transplants-fail": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1727940703131_about_hair_loss_follicles.webp", "imageAlt": "Hair follicle illustration" },
-      "breakthrough-discovery": { "videoSrc": "https://cdn.shopify.com/videos/c/o/v/af0ec6898358405ca79cf6c9cf4b04cc.mp4" },
-      "product-features": { "videoSrc": "https://cdn.shopify.com/videos/c/o/v/0625959e653446638e3f47acadeec5ff.mp4" },
-      "social-proof": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1714746372776_Design_ohne_Titel_2024_05_03T162537.442.webp", "imageAlt": "Customer results collage" },
-      "cost-comparison": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158983611_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_4_.png", "imageAlt": "Hair restoration cost comparison" },
-      "urgency-warning": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158863747_7.png", "imageAlt": "DHT warning chart" },
-      "cheap-imitations": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157053335_spartacap.png", "imageAlt": "Spartan cap product image" },
-      "guarantee": { "videoSrc": "https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4" },
-      "limited-time-offer": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750417169457_1725110900577_Image_11_v3.webp", "imageAlt": "Limited-time offer graphic" },
-      "choice": { "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157812986_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_2_.png", "imageAlt": "Choice comparison graphic" }
+      "hair-loss-crisis": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp",
+        "imageAlt": "Hair loss confidence illustration"
+      },
+      "hair-transplants-fail": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1727940703131_about_hair_loss_follicles.webp",
+        "imageAlt": "Hair follicle illustration"
+      },
+      "breakthrough-discovery": {
+        "videoSrc": "https://cdn.shopify.com/videos/c/o/v/af0ec6898358405ca79cf6c9cf4b04cc.mp4"
+      },
+      "product-features": {
+        "videoSrc": "https://cdn.shopify.com/videos/c/o/v/0625959e653446638e3f47acadeec5ff.mp4"
+      },
+      "social-proof": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1714746372776_Design_ohne_Titel_2024_05_03T162537.442.webp",
+        "imageAlt": "Customer results collage"
+      },
+      "cost-comparison": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158983611_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_4_.png",
+        "imageAlt": "Hair restoration cost comparison"
+      },
+      "urgency-warning": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158863747_7.png",
+        "imageAlt": "DHT warning chart"
+      },
+      "cheap-imitations": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157053335_spartacap.png",
+        "imageAlt": "Spartan cap product image"
+      },
+      "guarantee": {
+        "videoSrc": "https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4"
+      },
+      "limited-time-offer": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750417169457_1725110900577_Image_11_v3.webp",
+        "imageAlt": "Limited-time offer graphic"
+      },
+      "choice": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157812986_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_2_.png",
+        "imageAlt": "Choice comparison graphic"
+      }
     },
     "offerComparison": {
       "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158781308_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_3_.png",
@@ -29,23 +59,22 @@
   "comments": {
     "likeIconSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750416781287_download_3_.png",
     "avatars": {
-      "barbara-miller": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412380307_1733617084175_Marcella_Hastings.webp",
-      "richard-wilson": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412394878_1733617237015_Richard_Wilson.webp",
-      "doug-johnson": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412432968_1733617234876_Doug_Johnson.webp",
-      "jose-martinez": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412457193_1733617232938_Franklin_Monroe.webp",
-      "lionel-beckett": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412479053_1712227680885_Screenshot_2024_04_04_at_6.47.28_PM.webp",
-      "mark-owens": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412504031_1733617143932_Winston_Harper.webp",
-      "rowena-barron": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412523799_1733616910188_Zelda_Montgomery.webp",
-      "cecelia-pruitt": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412555020_1733617318212_Cecillia_Pruitt.webp",
-      "lucille-langley": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412678573_1733617055645_Rowena_Baron.webp",
-      "sharon-harper": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412699835_1733617058554_Sharon_Harper.webp",
-      "zelda-montgomery": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412721421_1733617019729_Barbara_Miller.webp",
-      "curtis-reynolds": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412744174_1733617003166_Curtis_Reynolds.webp",
-      "winston-harper": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412763183_1733616985161_Desmond_Vaughn.webp",
-      "franklin-monroe": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412786476_1733616961643_Mark_Owens.webp",
-      "marcella-hastings": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412803043_1733616940914_Betty_Martinez.webp",
-      "gwendolyn-mcpherson": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412819884_1733617139898_Lucille_Langley.webp",
-      "desmond-vaughn": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412838535_1733616887966_Lionel_Beckett.webp"
+      "marcella-hastings": "/comments/1750412380307_1733617084175_Marcella_Hastings.webp",
+      "richard-wilson": "/comments/1750412394878_1733617237015_Richard_Wilson.webp",
+      "doug-johnson": "/comments/1750412432968_1733617234876_Doug_Johnson.webp",
+      "franklin-monroe": "/comments/1750412457193_1733617232938_Franklin_Monroe.webp",
+      "lionel-beckett": "/comments/1750412838535_1733616887966_Lionel_Beckett.webp",
+      "betty-martinez": "/comments/1750412803043_1733616940914_Betty_Martinez.webp",
+      "rowena-baron": "/comments/1750412678573_1733617055645_Rowena_Baron.webp",
+      "winston-harper": "/comments/1750412504031_1733617143932_Winston_Harper.webp",
+      "lucille-langley": "/comments/1750412819884_1733617139898_Lucille_Langley.webp",
+      "sharon-harper": "/comments/1750412699835_1733617058554_Sharon_Harper.webp",
+      "zelda-montgomery": "/comments/1750412523799_1733616910188_Zelda_Montgomery.webp",
+      "curtis-reynolds": "/comments/1750412744174_1733617003166_Curtis_Reynolds.webp",
+      "barbara-miller": "/comments/1750412721421_1733617019729_Barbara_Miller.webp",
+      "mark-owens": "/comments/1750412786476_1733616961643_Mark_Owens.webp",
+      "cecillia-pruitt": "/comments/1750412555020_1733617318212_Cecillia_Pruitt.webp",
+      "desmond-vaughn": "/comments/1750412763183_1733616985161_Desmond_Vaughn.webp"
     }
   },
   "footer": {
