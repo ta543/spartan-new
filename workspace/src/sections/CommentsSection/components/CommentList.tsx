@@ -1,3 +1,4 @@
+import { commentAvatarSrc } from "@/sections/CommentsSection/components/commentAssets";
 import { CommentItem } from "@/sections/CommentsSection/components/CommentItem";
 
 export const CommentList = () => {
@@ -5,7 +6,7 @@ export const CommentList = () => {
     <div className="relative box-border caret-transparent mb-[15px] top-2.5 md:mb-[-150px] md:top-auto after:accent-auto after:box-border after:caret-transparent after:clear-both after:text-neutral-800 after:block after:text-base after:not-italic after:normal-nums after:font-normal after:tracking-[normal] after:leading-6 after:list-outside after:list-disc after:pointer-events-auto after:no-underline after:indent-[0px] after:normal-case after:visible after:border-separate after:font-apple_system">
       <ul className="box-border caret-transparent pl-0 font-helvetica">
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412380307_1733617084175_Marcella_Hastings.webp"
+          avatarSrc={commentAvatarSrc("Barbara Miller")}
           name="Barbara Miller"
           text={
             <p className="text-black box-border caret-transparent mb-[3px]">
@@ -17,7 +18,7 @@ export const CommentList = () => {
           showLikeIcon={true}
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412394878_1733617237015_Richard_Wilson.webp"
+          avatarSrc={commentAvatarSrc("Richard Wilson")}
           name="Richard Wilson"
           text={
             <div className="text-black box-border caret-transparent p-px">
@@ -29,7 +30,7 @@ export const CommentList = () => {
           showLikeIcon={true}
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412432968_1733617234876_Doug_Johnson.webp"
+          avatarSrc={commentAvatarSrc("Doug Johnson")}
           name="Doug Johnson"
           text={
             <>
@@ -45,7 +46,7 @@ export const CommentList = () => {
           replies={[
             {
               avatarSrc:
-                "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412457193_1733617232938_Franklin_Monroe.webp",
+                commentAvatarSrc("Jose Martinez"),
               name: "Jose Martinez",
               text: (
                 <>
@@ -69,7 +70,7 @@ export const CommentList = () => {
           repliesExtraClass="border-b-neutral-800 border-l-gray-300 border-r-neutral-800 border-t-neutral-800 border-l"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412479053_1712227680885_Screenshot_2024_04_04_at_6.47.28_PM.webp"
+          avatarSrc={commentAvatarSrc("Lionel Beckett")}
           name="Lionel Beckett"
           text={
             <>
@@ -86,7 +87,7 @@ export const CommentList = () => {
           timeAgo="3 h"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412504031_1733617143932_Winston_Harper.webp"
+          avatarSrc={commentAvatarSrc("Mark Owens")}
           name="Mark Owens"
           text={
             <p className="text-black box-border caret-transparent mb-[3px]">
@@ -99,7 +100,7 @@ export const CommentList = () => {
           replies={[
             {
               avatarSrc:
-                "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412523799_1733616910188_Zelda_Montgomery.webp",
+                commentAvatarSrc("Rowena Barron"),
               name: "Rowena Barron",
               text: (
                 <p className="text-black box-border caret-transparent mb-[3px]">
@@ -114,14 +115,14 @@ export const CommentList = () => {
           ]}
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412555020_1733617318212_Cecillia_Pruitt.webp"
+          avatarSrc={commentAvatarSrc("Cecelia Pruitt")}
           name="Cecelia Pruitt"
           text="I’m truly amazed at how our bodies can respond to light therapy. I recently read how it supports natural growth without harsh chemicals such a blessing! Grateful for the science and the doctors behind this technology!"
           likeCount="8"
           timeAgo="3 h"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412678573_1733617055645_Rowena_Baron.webp"
+          avatarSrc={commentAvatarSrc("Lucille Langley")}
           name="Lucille Langley"
           text={
             <>
@@ -139,7 +140,7 @@ export const CommentList = () => {
           replies={[
             {
               avatarSrc:
-                "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412699835_1733617058554_Sharon_Harper.webp",
+                commentAvatarSrc("Sharon Harper"),
               name: "Sharon Harper",
               text: (
                 <>
@@ -157,7 +158,7 @@ export const CommentList = () => {
             },
             {
               avatarSrc:
-                "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412721421_1733617019729_Barbara_Miller.webp",
+                commentAvatarSrc("Zelda Montgomery"),
               name: "Zelda Montgomery",
               text: (
                 <p className="text-black box-border caret-transparent mb-[3px]">
@@ -170,14 +171,14 @@ export const CommentList = () => {
           ]}
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412744174_1733617003166_Curtis_Reynolds.webp"
+          avatarSrc={commentAvatarSrc("Curtis Reynolds")}
           name="Curtis Reynolds"
           text="Really informative read. I’ve been struggling with thinning hair and have looked into everything this looks like it could be a great solution."
           likeCount="3"
           timeAgo="4 h"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412763183_1733616985161_Desmond_Vaughn.webp"
+          avatarSrc={commentAvatarSrc("Winston Harper")}
           name="Winston Harper"
           text={
             <>
@@ -197,7 +198,7 @@ export const CommentList = () => {
           timeAgo="4 h"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412786476_1733616961643_Mark_Owens.webp"
+          avatarSrc={commentAvatarSrc("Franklin Monroe")}
           name="Franklin Monroe"
           text="When you see how advanced and responsive the human body is even something like light can stimulate real change."
           likeCount="3"
@@ -205,7 +206,7 @@ export const CommentList = () => {
           showLikeIcon={false}
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412803043_1733616940914_Betty_Martinez.webp"
+          avatarSrc={commentAvatarSrc("Marcella Hastings")}
           name="Marcella Hastings"
           text={
             <>
@@ -226,7 +227,7 @@ export const CommentList = () => {
           replies={[
             {
               avatarSrc:
-                "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412819884_1733617139898_Lucille_Langley.webp",
+                commentAvatarSrc("Gwendolyn McPherson"),
               name: "Gwendolyn McPherson",
               text: (
                 <p className="text-black box-border caret-transparent mb-[3px]">
@@ -241,7 +242,7 @@ export const CommentList = () => {
           repliesExtraClass="border-b-neutral-800 border-l-gray-300 border-r-neutral-800 border-t-neutral-800 border-l"
         />
         <CommentItem
-          avatarSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412838535_1733616887966_Lionel_Beckett.webp"
+          avatarSrc={commentAvatarSrc("Desmond Vaughn")}
           name="Desmond Vaughn"
           text={
             <>
