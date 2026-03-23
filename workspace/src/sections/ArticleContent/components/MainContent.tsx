@@ -68,7 +68,7 @@ export const MainContent = () => {
         showBreak={true}
       />
       <ImageSection
-        imageSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1714746372776_Design_ohne_Titel_2024_05_03T162537.442.webp"
+        imageSrc="/images/spartan-nmn/Results.png"
         innerDivClass="pt-[56.46%]"
         wrapperDivClass="h-full w-full"
         imageClass="float-left"
@@ -91,7 +91,7 @@ export const MainContent = () => {
       />
       <img
         title=""
-        src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158863747_7.png"
+        src="/images/spartan-nmn/Go-Make-a-Mistake-and-Be-a-Disappointment.webp"
         href=""
         alt=""
         className="text-black box-border caret-transparent inline max-w-full w-full border border-zinc-400 border-solid"
