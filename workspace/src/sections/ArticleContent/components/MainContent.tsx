@@ -161,7 +161,7 @@ export const MainContent = () => {
       <ArticleBody variant="support" />
       <img
         title=""
-        src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158781308_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_3_.png"
+        src="/images/spartan-nmn/showcase.png"
         href=""
         alt=""
         className="text-black box-border caret-transparent inline max-w-full w-full mt-[15px] mb-4 rounded-[10px] md:mb-[26px]"
