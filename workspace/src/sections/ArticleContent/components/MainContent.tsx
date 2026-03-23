@@ -91,7 +91,7 @@ export const MainContent = () => {
       />
       <img
         title=""
-        src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158863747_7.png"
+        src="/images/spartan-nmn/Go-Make-a-Mistake-and-Be-a-Disappointment.webp"
         href=""
         alt=""
         className="text-black box-border caret-transparent inline max-w-full w-full border border-zinc-400 border-solid"
