@@ -501,7 +501,7 @@ export const ArticleHeader = () => {
                 <div className="relative box-border caret-transparent pt-[56.46%]">
                   <div className="absolute box-border caret-transparent h-full w-full left-0 top-0">
                     <img
-                      src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1714746372776_Design_ohne_Titel_2024_05_03T162537.442.webp"
+                      src="/images/spartan-nmn/Results.png"
                       title=""
                       href=""
                       alt=""
