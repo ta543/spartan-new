@@ -72,6 +72,7 @@ type AdvertorialMedia = {
   sidebar: { imageSrc: string; ctaBackgroundSrc: string };
   article: {
     heroVideoSrc: string;
+    heroVideoLoop?: boolean;
     sections: Record<string, SectionMedia>;
     offerComparison: { imageSrc: string; imageAlt: string };
   };
@@ -328,7 +329,7 @@ const MainContent = ({ countdown }: { countdown: string }) => {
       </div>
 
       <div className="reveal mt-3">
-        <VideoBlock src={media.article.heroVideoSrc} />
+        <VideoBlock src={media.article.heroVideoSrc} loop={media.article.heroVideoLoop} />
       </div>
 
       {content.article.sections.map((section, index) => {

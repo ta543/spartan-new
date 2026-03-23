@@ -8,6 +8,7 @@
   },
   "article": {
     "heroVideoSrc": "/video/spartan-nmn/hero-nmn.mp4",
+    "heroVideoLoop": false,
     "sections": {
       "hair-loss-crisis": {
         "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp",
@@ -18,7 +19,8 @@
         "imageAlt": "Hair follicle illustration"
       },
       "breakthrough-discovery": {
-        "videoSrc": "/video/spartan-nmn/gif-biology.mp4"
+        "videoSrc": "/video/spartan-nmn/gif-biology.mp4",
+        "videoLoop": false
       },
       "product-features": {
         "videoSrc": "/video/spartan-nmn/introduction.mp4",
@@ -41,7 +43,8 @@
         "imageAlt": "Amazon marketplace comparison graphic"
       },
       "guarantee": {
-        "videoSrc": "https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4"
+        "videoSrc": "https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4",
+        "videoLoop": false
       },
       "limited-time-offer": {
         "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750417169457_1725110900577_Image_11_v3.webp",
