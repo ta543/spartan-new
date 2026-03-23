@@ -3,11 +3,11 @@
     "iconSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750411783812_1711366759829_bitmap.png"
   },
   "sidebar": {
-    "imageSrc": "https://cdn.shopify.com/s/files/1/0704/6964/8428/files/transparent.png?v=1771688799",
+    "imageSrc": "/images/spartan-nmn/transparent.png",
     "ctaBackgroundSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1711370973556_3.png"
   },
   "article": {
-    "heroVideoSrc": "/video/hero2.mp4",
+    "heroVideoSrc": "/video/spartan-nmn/hero-nmn.mp4",
     "sections": {
       "hair-loss-crisis": {
         "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp",
@@ -36,7 +36,7 @@
         "imageAlt": "DHT warning chart"
       },
       "cheap-imitations": {
-        "imageSrc": "/images/amazon.png",
+        "imageSrc": "/images/spartan-nmn/amazon.png",
         "imageAlt": "Amazon marketplace comparison graphic"
       },
       "guarantee": {
@@ -59,22 +59,22 @@
   "comments": {
     "likeIconSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750416781287_download_3_.png",
     "avatars": {
-      "marcella-hastings": "/comments/1750412380307_1733617084175_Marcella_Hastings.webp",
-      "richard-wilson": "/comments/1750412394878_1733617237015_Richard_Wilson.webp",
-      "doug-johnson": "/comments/1750412432968_1733617234876_Doug_Johnson.webp",
-      "franklin-monroe": "/comments/1750412457193_1733617232938_Franklin_Monroe.webp",
-      "lionel-beckett": "/comments/1750412838535_1733616887966_Lionel_Beckett.webp",
-      "betty-martinez": "/comments/1750412803043_1733616940914_Betty_Martinez.webp",
-      "rowena-baron": "/comments/1750412678573_1733617055645_Rowena_Baron.webp",
-      "winston-harper": "/comments/1750412504031_1733617143932_Winston_Harper.webp",
-      "lucille-langley": "/comments/1750412819884_1733617139898_Lucille_Langley.webp",
-      "sharon-harper": "/comments/1750412699835_1733617058554_Sharon_Harper.webp",
-      "zelda-montgomery": "/comments/1750412523799_1733616910188_Zelda_Montgomery.webp",
-      "curtis-reynolds": "/comments/1750412744174_1733617003166_Curtis_Reynolds.webp",
-      "barbara-miller": "/comments/1750412721421_1733617019729_Barbara_Miller.webp",
-      "mark-owens": "/comments/1750412786476_1733616961643_Mark_Owens.webp",
-      "cecillia-pruitt": "/comments/1750412555020_1733617318212_Cecillia_Pruitt.webp",
-      "desmond-vaughn": "/comments/1750412763183_1733616985161_Desmond_Vaughn.webp"
+      "marcella-hastings": "/comments/spartan-nmn/1750412380307_1733617084175_Marcella_Hastings.webp",
+      "richard-wilson": "/comments/spartan-nmn/1750412394878_1733617237015_Richard_Wilson.webp",
+      "doug-johnson": "/comments/spartan-nmn/1750412432968_1733617234876_Doug_Johnson.webp",
+      "franklin-monroe": "/comments/spartan-nmn/1750412457193_1733617232938_Franklin_Monroe.webp",
+      "lionel-beckett": "/comments/spartan-nmn/1750412838535_1733616887966_Lionel_Beckett.webp",
+      "betty-martinez": "/comments/spartan-nmn/1750412803043_1733616940914_Betty_Martinez.webp",
+      "rowena-baron": "/comments/spartan-nmn/1750412678573_1733617055645_Rowena_Baron.webp",
+      "winston-harper": "/comments/spartan-nmn/1750412504031_1733617143932_Winston_Harper.webp",
+      "lucille-langley": "/comments/spartan-nmn/1750412819884_1733617139898_Lucille_Langley.webp",
+      "sharon-harper": "/comments/spartan-nmn/1750412699835_1733617058554_Sharon_Harper.webp",
+      "zelda-montgomery": "/comments/spartan-nmn/1750412523799_1733616910188_Zelda_Montgomery.webp",
+      "curtis-reynolds": "/comments/spartan-nmn/1750412744174_1733617003166_Curtis_Reynolds.webp",
+      "barbara-miller": "/comments/spartan-nmn/1750412721421_1733617019729_Barbara_Miller.webp",
+      "mark-owens": "/comments/spartan-nmn/1750412786476_1733616961643_Mark_Owens.webp",
+      "cecillia-pruitt": "/comments/spartan-nmn/1750412555020_1733617318212_Cecillia_Pruitt.webp",
+      "desmond-vaughn": "/comments/spartan-nmn/1750412763183_1733616985161_Desmond_Vaughn.webp"
     }
   },
   "footer": {
