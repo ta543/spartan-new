@@ -115,7 +115,7 @@ export const MainContent = () => {
         variantClass="text-[26px] leading-8 mt-[30px] md:text-[33px] md:leading-[46.2px]"
       />
       <VideoSection
-        videoSrc="https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4"
+        videoSrc="/video/spartan-nmn/30day.mp4"
         outerClassName="box-border caret-transparent w-full py-3"
         innerWrapperClassName="pt-[56.46%]"
         middleWrapperClassName="h-full w-full"
