@@ -122,7 +122,7 @@ export const ArticleHeader = () => {
                 <div className="relative box-border caret-transparent pt-[54%]">
                   <div className="absolute box-border caret-transparent h-full w-full left-0 top-0">
                     <img
-                      src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp"
+                      src="/images/spartan-nmn/discount.png"
                       title=""
                       href=""
                       alt=""

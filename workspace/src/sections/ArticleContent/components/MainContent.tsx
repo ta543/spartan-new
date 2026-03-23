@@ -21,7 +21,7 @@ export const MainContent = () => {
         variantClass="text-[26px] leading-8 mt-[30px] md:text-[32px] md:leading-[44.8px]"
       />
       <ImageSection
-        imageSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp"
+        imageSrc="/images/spartan-nmn/discount.png"
         innerDivClass="pt-[54%]"
         wrapperDivClass="h-full w-full"
         imageClass="float-left"
