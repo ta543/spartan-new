@@ -29,6 +29,7 @@ type SectionMedia = {
   imageSrc?: string;
   imageAlt?: string;
   videoSrc?: string;
+  videoLoop?: boolean;
 };
 
 type AdvertorialContent = {
@@ -155,14 +156,14 @@ const HtmlParagraphs = ({
   );
 };
 
-const VideoBlock = ({ src }: { src: string }) => (
+const VideoBlock = ({ src, loop = true }: { src: string; loop?: boolean }) => (
   <div className="relative w-full overflow-hidden rounded-sm" style={{ paddingTop: "56.25%" }}>
     <video
       src={src}
       autoPlay
       muted
       playsInline
-      loop
+      loop={loop}
       className="absolute h-full w-full left-0 top-0 object-cover"
     />
   </div>
@@ -339,7 +340,7 @@ const MainContent = ({ countdown }: { countdown: string }) => {
             {section.heading ? <Heading text={section.heading} /> : null}
             {sectionMedia?.videoSrc ? (
               <div className="reveal mt-3 py-3">
-                <VideoBlock src={sectionMedia.videoSrc} />
+                <VideoBlock src={sectionMedia.videoSrc} loop={sectionMedia.videoLoop} />
               </div>
             ) : null}
             {sectionMedia?.imageSrc ? (
