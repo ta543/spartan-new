@@ -21,7 +21,7 @@ export const MainContent = () => {
         variantClass="text-[26px] leading-8 mt-[30px] md:text-[32px] md:leading-[44.8px]"
       />
       <ImageSection
-        imageSrc="https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp"
+        imageSrc="/images/spartan-nmn/discount.png"
         innerDivClass="pt-[54%]"
         wrapperDivClass="h-full w-full"
         imageClass="float-left"
@@ -139,7 +139,7 @@ export const MainContent = () => {
       />
       <img
         title=""
-        src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157812986_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_2_.png"
+        src="/images/spartan-nmn/discount.png"
         href=""
         alt=""
         className="text-black box-border caret-transparent inline max-w-full w-full"

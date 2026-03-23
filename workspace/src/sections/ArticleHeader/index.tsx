@@ -122,7 +122,7 @@ export const ArticleHeader = () => {
                 <div className="relative box-border caret-transparent pt-[54%]">
                   <div className="absolute box-border caret-transparent h-full w-full left-0 top-0">
                     <img
-                      src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1728027126996_U_berschrift_hinzufu_gen_28_.webp"
+                      src="/images/spartan-nmn/discount.png"
                       title=""
                       href=""
                       alt=""
@@ -1038,7 +1038,7 @@ export const ArticleHeader = () => {
               </div>
               <img
                 title=""
-                src="https://c.animaapp.com/mmt9badjPB5AWm/assets/1752157812986_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_2_.png"
+                src="/images/spartan-nmn/discount.png"
                 href=""
                 alt=""
                 className="text-black box-border caret-transparent inline max-w-full w-full"
