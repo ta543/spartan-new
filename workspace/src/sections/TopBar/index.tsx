@@ -29,6 +29,7 @@ type SectionMedia = {
   imageSrc?: string;
   imageAlt?: string;
   videoSrc?: string;
+  videoLoop?: boolean;
 };
 
 type AdvertorialContent = {
@@ -71,6 +72,7 @@ type AdvertorialMedia = {
   sidebar: { imageSrc: string; ctaBackgroundSrc: string };
   article: {
     heroVideoSrc: string;
+    heroVideoLoop?: boolean;
     sections: Record<string, SectionMedia>;
     offerComparison: { imageSrc: string; imageAlt: string };
   };
@@ -155,14 +157,14 @@ const HtmlParagraphs = ({
   );
 };
 
-const VideoBlock = ({ src }: { src: string }) => (
+const VideoBlock = ({ src, loop = true }: { src: string; loop?: boolean }) => (
   <div className="relative w-full overflow-hidden rounded-sm" style={{ paddingTop: "56.25%" }}>
     <video
       src={src}
       autoPlay
       muted
       playsInline
-      loop
+      loop={loop}
       className="absolute h-full w-full left-0 top-0 object-cover"
     />
   </div>
@@ -327,7 +329,7 @@ const MainContent = ({ countdown }: { countdown: string }) => {
       </div>
 
       <div className="reveal mt-3">
-        <VideoBlock src={media.article.heroVideoSrc} />
+        <VideoBlock src={media.article.heroVideoSrc} loop={media.article.heroVideoLoop} />
       </div>
 
       {content.article.sections.map((section, index) => {
@@ -339,7 +341,7 @@ const MainContent = ({ countdown }: { countdown: string }) => {
             {section.heading ? <Heading text={section.heading} /> : null}
             {sectionMedia?.videoSrc ? (
               <div className="reveal mt-3 py-3">
-                <VideoBlock src={sectionMedia.videoSrc} />
+                <VideoBlock src={sectionMedia.videoSrc} loop={sectionMedia.videoLoop} />
               </div>
             ) : null}
             {sectionMedia?.imageSrc ? (
