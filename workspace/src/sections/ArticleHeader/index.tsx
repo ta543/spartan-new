@@ -866,7 +866,7 @@ export const ArticleHeader = () => {
                   <div className="absolute box-border caret-transparent h-full w-full left-0 top-0">
                     <div className="relative box-border caret-transparent w-full overflow-hidden before:accent-auto before:box-border before:caret-transparent before:text-neutral-800 before:block before:text-base before:not-italic before:normal-nums before:font-normal before:tracking-[normal] before:leading-6 before:list-outside before:list-disc before:pointer-events-auto before:no-underline before:indent-[0px] before:normal-case before:visible before:pt-[56.25%] before:border-separate before:font-apple_system">
                       <video
-                        src="https://cdn.shopify.com/videos/c/o/v/13afd6f790c14ec2beaf2b117b390acb.mp4"
+                        src="/video/spartan-nmn/30day.mp4"
                         autoplay=""
                         muted=""
                         playsinline=""
