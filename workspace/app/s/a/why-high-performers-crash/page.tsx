@@ -1,4 +1,4 @@
-import advertorial from "./adv.json";
+import advertorial from "./adv-spartan.json";
 import advertorialMedia from "./adv-media.json";
 
 import { TopBar } from "@/sections/TopBar";
