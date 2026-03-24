@@ -1,0 +1,87 @@
+{
+  "topBar": {
+    "iconSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750411783812_1711366759829_bitmap.png"
+  },
+  "sidebar": {
+    "imageSrc": "/images/spartan-nmn/transparent.png",
+    "ctaBackgroundSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1711370973556_3.png"
+  },
+  "article": {
+    "heroVideoSrc": "/video/spartan-nmn/hero-nmn.mp4",
+    "heroVideoLoop": false,
+    "sections": {
+      "hair-loss-crisis": {
+        "imageSrc": "/images/spartan-nmn/discount.png",
+        "imageAlt": "Hair loss confidence illustration"
+      },
+      "hair-transplants-fail": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1727940703131_about_hair_loss_follicles.webp",
+        "imageAlt": "Hair follicle illustration"
+      },
+      "breakthrough-discovery": {
+        "videoSrc": "/video/spartan-nmn/gif-biology.mp4",
+        "videoLoop": false
+      },
+      "product-features": {
+        "videoSrc": "/video/spartan-nmn/introduction.mp4",
+        "videoLoop": false
+      },
+      "social-proof": {
+        "imageSrc": "/images/spartan-nmn/Results.png",
+        "imageAlt": "Customer results collage"
+      },
+      "cost-comparison": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1752158983611_httpsassets.checkoutchamp.comFunnelassetsimages0c550aa8_bfd8_436e_b88c_baf46dcfb762afe720dc_08f0_4a93_aabf_3687735392cb1698069323_1688312587252_1_1_.pngversionId_ubVohYQiIA2ybDm4Ogln0lZDDEHxRNEC_4_.png",
+        "imageAlt": "Hair restoration cost comparison"
+      },
+      "urgency-warning": {
+        "imageSrc": "/images/spartan-nmn/Go-Make-a-Mistake-and-Be-a-Disappointment.webp",
+        "imageAlt": "DHT warning chart"
+      },
+      "cheap-imitations": {
+        "imageSrc": "/images/spartan-nmn/amazon.png",
+        "imageAlt": "Amazon marketplace comparison graphic"
+      },
+      "guarantee": {
+        "videoSrc": "/video/spartan-nmn/30day.mp4",
+        "videoLoop": false
+      },
+      "limited-time-offer": {
+        "imageSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750417169457_1725110900577_Image_11_v3.webp",
+        "imageAlt": "Limited-time offer graphic"
+      },
+      "choice": {
+        "imageSrc": "/images/spartan-nmn/discount.png",
+        "imageAlt": "Choice comparison graphic"
+      }
+    },
+    "offerComparison": {
+      "imageSrc": "/images/spartan-nmn/showcase.png",
+      "imageAlt": "Offer comparison"
+    }
+  },
+  "comments": {
+    "likeIconSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750416781287_download_3_.png",
+    "avatars": {
+      "marcella-hastings": "/comments/spartan-nmn/1750412380307_1733617084175_Marcella_Hastings.webp",
+      "richard-wilson": "/comments/spartan-nmn/1750412394878_1733617237015_Richard_Wilson.webp",
+      "doug-johnson": "/comments/spartan-nmn/1750412432968_1733617234876_Doug_Johnson.webp",
+      "franklin-monroe": "/comments/spartan-nmn/1750412457193_1733617232938_Franklin_Monroe.webp",
+      "lionel-beckett": "/comments/spartan-nmn/1750412838535_1733616887966_Lionel_Beckett.webp",
+      "betty-martinez": "/comments/spartan-nmn/1750412803043_1733616940914_Betty_Martinez.webp",
+      "rowena-baron": "/comments/spartan-nmn/1750412678573_1733617055645_Rowena_Baron.webp",
+      "winston-harper": "/comments/spartan-nmn/1750412504031_1733617143932_Winston_Harper.webp",
+      "lucille-langley": "/comments/spartan-nmn/1750412819884_1733617139898_Lucille_Langley.webp",
+      "sharon-harper": "/comments/spartan-nmn/1750412699835_1733617058554_Sharon_Harper.webp",
+      "zelda-montgomery": "/comments/spartan-nmn/1750412523799_1733616910188_Zelda_Montgomery.webp",
+      "curtis-reynolds": "/comments/spartan-nmn/1750412744174_1733617003166_Curtis_Reynolds.webp",
+      "barbara-miller": "/comments/spartan-nmn/1750412721421_1733617019729_Barbara_Miller.webp",
+      "mark-owens": "/comments/spartan-nmn/1750412786476_1733616961643_Mark_Owens.webp",
+      "cecillia-pruitt": "/comments/spartan-nmn/1750412555020_1733617318212_Cecillia_Pruitt.webp",
+      "desmond-vaughn": "/comments/spartan-nmn/1750412763183_1733616985161_Desmond_Vaughn.webp"
+    }
+  },
+  "footer": {
+    "paymentMethodsSrc": "https://c.animaapp.com/mmt9badjPB5AWm/assets/1750412901220_1719483630013_1718789453182_f1e052fc3f19b3c0bf6479b1c7f772a2.webp"
+  }
+}
