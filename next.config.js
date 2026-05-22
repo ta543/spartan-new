@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "/s/adv/cellular-energy-discovery",
+        destination: "/s/a/why-high-performers-crash",
         permanent: false,
       },
     ];
